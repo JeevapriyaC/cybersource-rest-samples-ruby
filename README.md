@@ -13,7 +13,7 @@ The samples are all completely independent and self-contained. You can analyze t
 You can also run each sample directly from the command line.
 
 ## Requirements
-* Ruby 2.2.2 or higher
+* Ruby 2.2.6 or higher
 * [CyberSource Account](https://developer.cybersource.com/api/developer-guides/dita-gettingstarted/registration.html)
 * [CyberSource API Keys](https://prod.developer.cybersource.com/api/developer-guides/dita-gettingstarted/registration/createCertSharedKey.html)
 
